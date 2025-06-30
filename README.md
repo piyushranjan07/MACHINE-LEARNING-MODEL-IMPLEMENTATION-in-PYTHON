@@ -20,4 +20,5 @@ this is my fourth task of my first summer internship in python programming
 
 *OUTPUT*:
   ![Image](https://github.com/user-attachments/assets/ad17201a-f737-41c9-864d-f64c2437efe1)
+  ![Image](https://github.com/user-attachments/assets/c31cd7e8-d727-4671-bcbd-2681906e4078)
   
