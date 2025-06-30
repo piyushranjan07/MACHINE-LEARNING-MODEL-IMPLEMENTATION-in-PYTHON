@@ -19,4 +19,5 @@ this is my fourth task of my first summer internship in python programming
                    ![Image](https://github.com/user-attachments/assets/6b9bc76d-73ad-4cf0-b7b3-55704aff39e0)
 
 *OUTPUT*:
-
+  ![Image](https://github.com/user-attachments/assets/ad17201a-f737-41c9-864d-f64c2437efe1)
+  
